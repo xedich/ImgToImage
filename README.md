@@ -4,7 +4,7 @@ Not supposed to be public but license was never claimed. Feel free to learn from
 
 Notes about it:
 
-- It only works with Mozilla Firefox
+- It only works with Mozilla Firefox (you can find the reason just by trying to run it on other browsers)
 - It was tested with Apache 2.2
 - default.html is encrypted (encryption key is available inside index.php)
 
