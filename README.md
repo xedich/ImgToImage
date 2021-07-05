@@ -7,3 +7,5 @@ Notes about it:
 - It only works with Mozilla Firefox
 - It was tested with Apache 2.2
 - default.html is encrypted (encryption key is available inside index.php)
+
+Credits for Decrypted PHP and HTML rebuilt files: A great amazing friend and myself.
