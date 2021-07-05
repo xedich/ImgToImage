@@ -1,5 +1,5 @@
 The most advanced GunBound .img (Softnyx Image Storage System) file interpreter/decoder/extractor you may ever see.
-It was coded by Thainan Frota (and other people who helped with information about the game image system) and requested/bought by Johan (GBrasil, GitzWC etc). 
+It was coded by Thainan Frota (and other people who helped with information about the game image system including myself indirectly) and requested/bought by Johan (GBrasil, GitzWC etc). 
 Not supposed to be public but license was never claimed. Feel free to learn from it.
 
 Notes about it:
